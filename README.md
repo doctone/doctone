@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on broadening my skillset as a full stack engineer, and building and maintaining reusable systems end-to-end.
 - 🌱 I’m currently learning React, Node, AWS, software architecture and test-driven-development
 - 📫 How to reach me: samjojames@gmail.com
-- ⚡ Fun fact: I love writing in Typescript and I still don't really know why. I'm also a chess coach and jazz pianist
+- ⚡ Fun fact: I'm also a chess coach and jazz pianist
