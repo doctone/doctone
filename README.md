@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a full stack engineer, building and maintaining reusable systems end-to-end.
-- 🌱 I’m currently using React, Node, AWS, software architecture and test-driven-development
+- 🔭 I am interested in event-driven architectures, and the wonderful world of Typescript
+- 🌱 I’m currently working in React, Node, AWS
 - 📫 How to reach me: samjojames@gmail.com
 - ⚡ Fun fact: I'm also a chess coach and jazz pianist
